@@ -32,7 +32,6 @@ func main() {
 	merge([]int{1}, 1, []int{}, 0)
 }
 
-
 // func merge(nums1 []int, m int, nums2 []int, n int) {
 // 	current_highest_pointer := m - 1
 // 	nums1_pointer := m + n - 1
