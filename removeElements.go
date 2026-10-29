@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func removeElement(nums []int, val int) int {
-	var write_pointer int;
+	var write_pointer int
 
 	for i := 0; i < len(nums); i++ {
 		if nums[i] != val {
